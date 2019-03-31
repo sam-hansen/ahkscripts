@@ -1,0 +1,25 @@
+{
+  "name": "scripts",
+  "version": "0.0.1",
+  "description": "AHK scripts",
+  "main": "/calendar.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codesandbox-app/static-template.git"
+  },
+  "keywords": ["autohotkey", "ahk"],
+  "author": "Sam Hansen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sammihansen/"
+  },
+  "homepage": "https://github.com/sammihansen/",
+  "dependencies": {
+    "autohotkey.js": "1.1.13",
+    "highlight.js": "9.15.6",
+    "jest": "24.1.0"
+  }
+}

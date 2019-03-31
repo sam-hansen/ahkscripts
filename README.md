@@ -1,2 +1,0 @@
-# ahkscripts
-Created with CodeSandbox
