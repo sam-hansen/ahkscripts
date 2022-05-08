@@ -10,7 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/codesandbox-app/static-template.git"
   },
-  "keywords": ["autohotkey", "ahk"],
+  "keywords": [
+    "autohotkey",
+    "ahk"
+  ],
   "author": "Sam Hansen",
   "license": "MIT",
   "bugs": {
@@ -19,7 +22,7 @@
   "homepage": "https://github.com/sammihansen/",
   "dependencies": {
     "autohotkey.js": "1.1.13",
-    "highlight.js": "9.15.6",
+    "highlight.js": "^11.5.1",
     "jest": "24.1.0"
   }
 }
