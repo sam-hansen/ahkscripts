@@ -10,7 +10,7 @@ on("^t", function() {
 });
 ```
 
-#### Which Outputs
+### Which Outputs
 
 ```ahk
 ^t::
@@ -30,7 +30,7 @@ on("^t", function() {
 });
 ```
 
-#### Which Outputs
+### Which Outputs
 
 ```ahk
 ^t::
@@ -54,7 +54,7 @@ on("^t", function() {
 });
 ```
 
-#### Which Outputs
+### Which Outputs
 
 ```ahk
 ^t::
@@ -83,7 +83,7 @@ on("^t", function() {
 });
 ```
 
-#### Which Outputs
+### Which Outputs
 
 ```ahk
 ^t::
@@ -98,7 +98,7 @@ on("^t", function() {
 Return
 ```
 
-#### Runing Functions
+### Runing Functions
 
 ```js
 get("Variable")
