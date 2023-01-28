@@ -258,7 +258,7 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 
 ;My-Info
 :*:ld::sxh64rh
-:*:myem::SAMUEL_HANSEN@homedepot.com
+:*:myem::SAM_HANSEN@homedepot.com
 :*:esig::Thank You{!}{RETURN}Sam H{RETURN}Customer Service Representitive, Messaging Services{RETURN}HomeDepot.com Customer Contact Center{RETURN}Ph. 1-800-430-3376
 
 
