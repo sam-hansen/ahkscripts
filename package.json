@@ -17,9 +17,9 @@
   "author": "Sam Hansen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sammihansen/"
+    "url": "https://github.com/sam-hansen/"
   },
-  "homepage": "https://github.com/sammihansen/",
+  "homepage": "https://github.com/sam-hansen/",
   "dependencies": {
     "autohotkey.js": "1.1.13",
     "highlight.js": "^11.5.1",
